@@ -1,0 +1,21 @@
+{
+  "name": "agencia-digital",
+  "version": "1.0.0",
+  "description": "Website da Agência Digital - Presença Digital Completa",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server V2 -p 3000 -o",
+    "dev": "npx http-server . -p 3000 -o"
+  },
+  "keywords": [
+    "agencia",
+    "digital",
+    "hospedagem",
+    "website"
+  ],
+  "author": "Fabio Toniati",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
